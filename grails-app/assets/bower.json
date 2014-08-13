@@ -1,0 +1,16 @@
+{
+  "name": "assets",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tovenkat/builtwithpolymer",
+  "authors": [
+    "tovenkat <venkat@e1c1.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
